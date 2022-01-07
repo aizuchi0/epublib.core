@@ -12,6 +12,5 @@ module nl.siegmann.epublib.core {
     exports nl.siegmann.epublib.service;
     exports nl.siegmann.epublib.util;
     exports nl.siegmann.epublib.utilities;
-    requires org.xmlpull.v1;
     requires org.slf4j;
 }
